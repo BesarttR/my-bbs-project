@@ -46,7 +46,7 @@ const Footer = () => {
               <a href="#" className="footer__alle-rader-link">
                 Alle Räder
                 <img 
-                  src="/assets/startseite/arrow-right-red.svg" 
+                  src="/Assets/Startseite/arrow-right-red.svg" 
                   alt="Arrow Right" 
                   className="footer__arrow-svg" 
                 />
@@ -69,7 +69,7 @@ const Footer = () => {
             <div style={{ marginTop: "30px" }}>
               <h3 className="footer__column-title">KONTAKT</h3>
               <div className="footer__contact-item">
-                <img src="/assets/startseite/map.svg" alt="Location" className="footer__contact-icon" />
+                <img src="/Assets/Startseite/map.svg" alt="Location" className="footer__contact-icon" />
                 <div>
                   <div>KW automotive GmbH</div>
                   <div>Aspachweg 14, 74427</div>
@@ -77,11 +77,11 @@ const Footer = () => {
                 </div>
               </div>
               <div className="footer__contact-item">
-                <img src="/assets/startseite/phone.svg" alt="Phone" className="footer__contact-icon" />
+                <img src="/Assets/Startseite/phone.svg" alt="Phone" className="footer__contact-icon" />
                 <div>+49 (0) 7836 52-0</div>
               </div>
               <div className="footer__contact-item">
-                <img src="/assets/startseite/mail.svg" alt="Email" className="footer__contact-icon" />
+                <img src="/Assets/Startseite/mail.svg" alt="Email" className="footer__contact-icon" />
                 <div>sales.bbs@kwautomotive.de</div>
               </div>
             </div>
@@ -107,19 +107,19 @@ const Footer = () => {
               <h4 className="footer__social-title">Social Media</h4>
               <div className="footer__social-icons">
                 <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/assets/startseite/facebook.svg" alt="Facebook" className="footer__social-icon" />
+                  <img src="/Assets/Startseite/facebook.svg" alt="Facebook" className="footer__social-icon" />
                 </a>
                 <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/assets/startseite/instagram.svg" alt="Instagram" className="footer__social-icon" />
+                  <img src="/Assets/Startseite/instagram.svg" alt="Instagram" className="footer__social-icon" />
                 </a>
                 <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/assets/startseite/youtube.svg" alt="YouTube" className="footer__social-icon" />
+                  <img src="/Assets/Startseite/youtube.svg" alt="YouTube" className="footer__social-icon" />
                 </a>
                 <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/assets/startseite/tiktok.png" alt="TikTok" className="footer__social-icon" />
+                  <img src="/Assets/Startseite/tiktok.png" alt="TikTok" className="footer__social-icon" />
                 </a>
                 <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/assets/startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
+                  <img src="/Assets/Startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
                 </a>
               </div>
             </div>
@@ -139,7 +139,7 @@ const Footer = () => {
             <div className="footer__brand" style={{ marginTop: "30px" }}>
               <div className="footer__logo">
                 <img 
-                  src="/assets/startseite/BBS-Logo-2025.svg" 
+                  src="/Assets/Startseite/BBS-Logo-2025.svg" 
                   alt="BBS Logo" 
                   className="footer__logo-image"
                 />
@@ -149,7 +149,7 @@ const Footer = () => {
               </div>
               <div className="footer__login">
                 <button className="footer__login-button">
-                  <img src="/assets/startseite/login.svg" alt="Login" className="footer__login-icon" />
+                  <img src="/Assets/Startseite/login.svg" alt="Login" className="footer__login-icon" />
                   Händler Login
                 </button>
               </div>
@@ -255,7 +255,7 @@ const Footer = () => {
           {/* Mobile Buttons Section */}
           <div className="footer__mobile-buttons">
             <button className="footer__login-button">
-              <img src="/assets/startseite/login.svg" alt="Login" className="footer__login-icon" />
+              <img src="/Assets/Startseite/login.svg" alt="Login" className="footer__login-icon" />
               Händler Login
             </button>
             <button className="footer__contact-button">Kontaktiere uns</button>
@@ -266,19 +266,19 @@ const Footer = () => {
             <h4 className="footer__mobile-social-title">Social Media</h4>
             <div className="footer__mobile-social-icons">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/startseite/facebook.svg" alt="Facebook" className="footer__social-icon" />
+                <img src="/Assets/Startseite/facebook.svg" alt="Facebook" className="footer__social-icon" />
               </a>
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/startseite/instagram.svg" alt="Instagram" className="footer__social-icon" />
+                <img src="/Assets/Startseite/instagram.svg" alt="Instagram" className="footer__social-icon" />
               </a>
               <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/startseite/youtube.svg" alt="YouTube" className="footer__social-icon" />
+                <img src="/Assets/Startseite/youtube.svg" alt="YouTube" className="footer__social-icon" />
               </a>
               <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/startseite/tiktok.png" alt="TikTok" className="footer__social-icon" />
+                <img src="/Assets/Startseite/tiktok.png" alt="TikTok" className="footer__social-icon" />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                <img src="/assets/startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
+                <img src="/Assets/Startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
               </a>
             </div>
           </div>
@@ -287,7 +287,7 @@ const Footer = () => {
           <div className="footer__mobile-bottom">
             <div className="footer__mobile-logo">
               <img 
-                src="/assets/startseite/BBS-Logo-2025.svg" 
+                src="/Assets/Startseite/BBS-Logo-2025.svg" 
                 alt="BBS Logo" 
                 className="footer__logo-image"
               />
