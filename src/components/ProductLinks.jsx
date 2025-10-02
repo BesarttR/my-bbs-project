@@ -5,19 +5,19 @@ const products = [
   { 
     name: "CI-R", 
     styleOptions: "21,600 Style options", 
-    image: "/Assets/Startseite/Wheels/Unlimited/CI-R Unlimited.png",
+    image: "/Assets/startseite/Wheels/Unlimited/CI-R Unlimited.png",
     link: "https://www.bbs.com/de/produkte-details/CI-R"
   },
   { 
     name: "CC-R", 
     styleOptions: "13,500 Style options", 
-    image: "/Assets/Startseite/Wheels/Unlimited/CC-R Unlimited.png",
+    image: "/Assets/startseite/Wheels/Unlimited/CC-R Unlimited.png",
     link: "https://www.bbs.com/de/produkte-details/CC-R"
   },
   { 
     name: "CH-R II", 
     styleOptions: "345,600 Style options", 
-    image: "/Assets/Startseite/Wheels/Unlimited/CH-R II Unlimited.png",
+    image: "/Assets/startseite/Wheels/Unlimited/CH-R II Unlimited.png",
     link: "https://www.bbs.com/de/produkte-details/CH-R-II"
   },
 ];
@@ -57,14 +57,14 @@ export default function ProductLinks() {
 
   // Gallery images for the carousel
   const galleryImages = [
-    '/Assets/Startseite/Gallery/home_gallery_1.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_2.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_3.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_4.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_5.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_6.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_7.jpg',
-    '/Assets/Startseite/Gallery/home_gallery_8.jpg'
+    '/Assets/startseite/Gallery/home_gallery_1.jpg',
+    '/Assets/startseite/Gallery/home_gallery_2.jpg',
+    '/Assets/startseite/Gallery/home_gallery_3.jpg',
+    '/Assets/startseite/Gallery/home_gallery_4.jpg',
+    '/Assets/startseite/Gallery/home_gallery_5.jpg',
+    '/Assets/startseite/Gallery/home_gallery_6.jpg',
+    '/Assets/startseite/Gallery/home_gallery_7.jpg',
+    '/Assets/startseite/Gallery/home_gallery_8.jpg'
   ];
 
   const maxDesktopIndex = galleryImages.length - 4; // Maximum slides for desktop (showing 4 at once)
@@ -93,27 +93,27 @@ export default function ProductLinks() {
     {
       name: 'CI-R',
       images: [
-        '/Assets/Startseite/Wheels/Performance Design/CI0202_NurburgringEdition_003.png',
-        '/Assets/Startseite/Wheels/Performance Design/CI0202_PlatinumSilver_003.png',
-        '/Assets/Startseite/Wheels/Performance Design/CI0202_SatinBlack_003.png',
-        '/Assets/Startseite/Wheels/Performance Design/CI0202_SatinBronze_003.png'
+        '/Assets/startseite/Wheels/Performance Design/CI0202_NurburgringEdition_003.png',
+        '/Assets/startseite/Wheels/Performance Design/CI0202_PlatinumSilver_003.png',
+        '/Assets/startseite/Wheels/Performance Design/CI0202_SatinBlack_003.png',
+        '/Assets/startseite/Wheels/Performance Design/CI0202_SatinBronze_003.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Performance Design/Selector/CI-R 1.png',
-        '/Assets/Startseite/Wheels/Performance Design/Selector/CI-R 2.png',
-        '/Assets/Startseite/Wheels/Performance Design/Selector/CI-R 3.png',
-        '/Assets/Startseite/Wheels/Performance Design/Selector/CI-R 4.png'
+        '/Assets/startseite/Wheels/Performance Design/Selector/CI-R 1.png',
+        '/Assets/startseite/Wheels/Performance Design/Selector/CI-R 2.png',
+        '/Assets/startseite/Wheels/Performance Design/Selector/CI-R 3.png',
+        '/Assets/startseite/Wheels/Performance Design/Selector/CI-R 4.png'
       ]
     },
     {
       name: 'SR',
       images: [
-        '/Assets/Startseite/Wheels/Performance Design/SR002_HimalayaSatinGray_02.003.png',
-        '/Assets/Startseite/Wheels/Performance Design/SR002_VolcanoGrayDiamondCut_001.png'
+        '/Assets/startseite/Wheels/Performance Design/SR002_HimalayaSatinGray_02.003.png',
+        '/Assets/startseite/Wheels/Performance Design/SR002_VolcanoGrayDiamondCut_001.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Performance Design/Selector/SR 1.png',
-        '/Assets/Startseite/Wheels/Performance Design/Selector/SR 1.png'
+        '/Assets/startseite/Wheels/Performance Design/Selector/SR 1.png',
+        '/Assets/startseite/Wheels/Performance Design/Selector/SR 1.png'
       ]
     }
   ];
@@ -122,42 +122,42 @@ export default function ProductLinks() {
     {
       name: 'CH-R II',
       images: [
-        '/Assets/Startseite/Wheels/Motorsport Design/CH-R II 602_SatinBronze_Side_007.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/CH-R II 602_SatinPlatinum_001.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/CH-R II 606_SatinBlack_001.png'
+        '/Assets/startseite/Wheels/Motorsport Design/CH-R II 602_SatinBronze_Side_007.png',
+        '/Assets/startseite/Wheels/Motorsport Design/CH-R II 602_SatinPlatinum_001.png',
+        '/Assets/startseite/Wheels/Motorsport Design/CH-R II 606_SatinBlack_001.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R II 1.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R II 2.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R II 3.png'
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R II 1.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R II 2.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R II 3.png'
       ]
     },
     {
       name: 'CH-R',
       images: [
-        '/Assets/Startseite/Wheels/Motorsport Design/CH_R_102_BriliantSilver_001.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/CH_R_102_Nurburgring_001.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/CH_R_102_SatinBlack_001.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/CH_R_102_SatinTitanium_001.png'
+        '/Assets/startseite/Wheels/Motorsport Design/CH_R_102_BriliantSilver_001.png',
+        '/Assets/startseite/Wheels/Motorsport Design/CH_R_102_Nurburgring_001.png',
+        '/Assets/startseite/Wheels/Motorsport Design/CH_R_102_SatinBlack_001.png',
+        '/Assets/startseite/Wheels/Motorsport Design/CH_R_102_SatinTitanium_001.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R 1.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R 2.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R 3.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/CH-R 4.png'
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R 1.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R 2.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R 3.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/CH-R 4.png'
       ]
     },
     {
       name: 'XR',
       images: [
-        '/Assets/Startseite/Wheels/Motorsport Design/XR0101_GlossyBlack_002.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/XR0101_PlatinumSilver_02.003.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/XR0101_SatinBronze_001.png'
+        '/Assets/startseite/Wheels/Motorsport Design/XR0101_GlossyBlack_002.png',
+        '/Assets/startseite/Wheels/Motorsport Design/XR0101_PlatinumSilver_02.003.png',
+        '/Assets/startseite/Wheels/Motorsport Design/XR0101_SatinBronze_001.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/XR 1.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/XR 2.png',
-        '/Assets/Startseite/Wheels/Motorsport Design/Selector/XR 3.png'
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/XR 1.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/XR 2.png',
+        '/Assets/startseite/Wheels/Motorsport Design/Selector/XR 3.png'
       ]
     }
   ];
@@ -165,40 +165,40 @@ export default function ProductLinks() {
     {
       name: 'CC-R',
       images: [
-        '/Assets/Startseite/Wheels/Utility Design/CC_R_CC0101_DiamondCut_001.png',
-        '/Assets/Startseite/Wheels/Utility Design/CC_R_CC0101_SatinBlack_001.png',
-        '/Assets/Startseite/Wheels/Utility Design/CC_R_CC0101_SatinPlatinum_001.png'
+        '/Assets/startseite/Wheels/Utility Design/CC_R_CC0101_DiamondCut_001.png',
+        '/Assets/startseite/Wheels/Utility Design/CC_R_CC0101_SatinBlack_001.png',
+        '/Assets/startseite/Wheels/Utility Design/CC_R_CC0101_SatinPlatinum_001.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Utility Design/Selector/CC-R 1.png',
-        '/Assets/Startseite/Wheels/Utility Design/Selector/CC-R 2.png',
-        '/Assets/Startseite/Wheels/Utility Design/Selector/CC-R 3.png'
+        '/Assets/startseite/Wheels/Utility Design/Selector/CC-R 1.png',
+        '/Assets/startseite/Wheels/Utility Design/Selector/CC-R 2.png',
+        '/Assets/startseite/Wheels/Utility Design/Selector/CC-R 3.png'
       ]
     },
     {
       name: 'TL-A',
       images: [
-        '/Assets/Startseite/Wheels/Utility Design/TLA0101_Glossy Bronze_001.png',
-        '/Assets/Startseite/Wheels/Utility Design/TLA0101_SatinBlack_001.png',
-        '/Assets/Startseite/Wheels/Utility Design/TLA0101_SatinPlatinumSilver_001.png'
+        '/Assets/startseite/Wheels/Utility Design/TLA0101_Glossy Bronze_001.png',
+        '/Assets/startseite/Wheels/Utility Design/TLA0101_SatinBlack_001.png',
+        '/Assets/startseite/Wheels/Utility Design/TLA0101_SatinPlatinumSilver_001.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Utility Design/Selector/TL-A 1.png',
-        '/Assets/Startseite/Wheels/Utility Design/Selector/TL-A 2.png',
-        '/Assets/Startseite/Wheels/Utility Design/Selector/TL-A 3.png'
+        '/Assets/startseite/Wheels/Utility Design/Selector/TL-A 1.png',
+        '/Assets/startseite/Wheels/Utility Design/Selector/TL-A 2.png',
+        '/Assets/startseite/Wheels/Utility Design/Selector/TL-A 3.png'
       ]
     },
     {
       name: 'SX',
       images: [
-        '/Assets/Startseite/Wheels/Utility Design/SX0101_BrilliantSilver_003.png',
-        '/Assets/Startseite/Wheels/Utility Design/SX0101_CristalBlack_02.001.png',
-        '/Assets/Startseite/Wheels/Utility Design/SX0101_PlatinumSilver DiamondCut_003.png'
+        '/Assets/startseite/Wheels/Utility Design/SX0101_BrilliantSilver_003.png',
+        '/Assets/startseite/Wheels/Utility Design/SX0101_CristalBlack_02.001.png',
+        '/Assets/startseite/Wheels/Utility Design/SX0101_PlatinumSilver DiamondCut_003.png'
       ],
       selectors: [
-        '/Assets/Startseite/Wheels/Utility Design/Selector/SX 1.png',
-        '/Assets/Startseite/Wheels/Utility Design/Selector/SX 2.png',
-        '/Assets/Startseite/Wheels/Utility Design/Selector/SX 3.png'
+        '/Assets/startseite/Wheels/Utility Design/Selector/SX 1.png',
+        '/Assets/startseite/Wheels/Utility Design/Selector/SX 2.png',
+        '/Assets/startseite/Wheels/Utility Design/Selector/SX 3.png'
       ]
     }
   ];
@@ -245,7 +245,7 @@ export default function ProductLinks() {
 
       {/* Header Section */}
       <div className="product-links__header responsive-header">
-        <img src="/Assets/Startseite/wheel_zeichnung.png" alt="Wheel Zeichnung" className="product-links__wheel-image responsive-wheel-image" />
+        <img src="/Assets/startseite/wheel_zeichnung.png" alt="Wheel Zeichnung" className="product-links__wheel-image responsive-wheel-image" />
         <div className="product-links__headline responsive-headline">
           <p className="product-links__dimensions responsive-dimensions">Dimensions, Fit & Style</p>
           <h2 className="product-links__title responsive-title">
@@ -264,16 +264,16 @@ export default function ProductLinks() {
             <div className="product-links__card-title responsive-card-title">
               <strong className="product-links__card-name responsive-card-name">{p.name}</strong>
               <div className="product-links__unlimited-badge responsive-badge">
-                <img src="/Assets/Startseite/Unlimited_Button.svg" alt="Unlimited" className="product-links__unlimited-logo" />
+                <img src="/Assets/startseite/Unlimited_Button.svg" alt="Unlimited" className="product-links__unlimited-logo" />
               </div>
             </div>
             <div className="product-links__card-info responsive-card-info">
               <div className="product-links__info-item">
-                <img src="/Assets/Startseite/Icons/style.svg" alt="Style options" className="product-links__info-icon" />
+                <img src="/Assets/startseite/icons/style.svg" alt="Style options" className="product-links__info-icon" />
                 <span className="product-links__info-text responsive-info-text">{p.styleOptions}</span>
               </div>
               <div className="product-links__info-item">
-                <img src="/Assets/Startseite/Icons/montage.svg" alt="Mounting system" className="product-links__info-icon" />
+                <img src="/Assets/startseite/icons/montage.svg" alt="Mounting system" className="product-links__info-icon" />
                 <span className="product-links__info-text responsive-info-text">Unlimited mounting system</span>
               </div>
             </div>
@@ -283,7 +283,7 @@ export default function ProductLinks() {
         {/* GO UNLIMITED Box */}
         <a href="https://www.bbs.com/de/unlimited-ubersicht" target="_blank" rel="noopener noreferrer" className="product-links__go-unlimited responsive-unlimited-box">
           <div className="product-links__go-unlimited-logo responsive-unlimited-logo">
-            <img src="/Assets/Startseite/Unlimited_Button.svg" alt="BBS Logo" className="bbs-logo-image" />
+            <img src="/Assets/startseite/Unlimited_Button.svg" alt="BBS Logo" className="bbs-logo-image" />
           </div>
           <div className="product-links__go-unlimited-text responsive-unlimited-text">
             <div className="product-links__go-unlimited-title responsive-unlimited-title">GO UNLIMITED</div>
@@ -314,7 +314,7 @@ export default function ProductLinks() {
             <div className="unlimited-intro__features-grid responsive-features-grid">
             <div className="unlimited-intro__feature-card responsive-feature-card">
               <div className="unlimited-intro__feature-icon responsive-feature-icon">
-                <img src="/Assets/Startseite/Icons/Icon_unlimited dimensions.svg" alt="Unlimited Dimensions" />
+                <img src="/Assets/startseite/icons/Icon_unlimited dimensions.svg" alt="Unlimited Dimensions" />
               </div>
               <h3 className="unlimited-intro__feature-subtitle responsive-feature-subtitle">UNLIMITED</h3>
               <h2 className="unlimited-intro__feature-title responsive-feature-title">DIMENSIONS</h2>
@@ -328,7 +328,7 @@ export default function ProductLinks() {
             
             <div className="unlimited-intro__feature-card responsive-feature-card">
               <div className="unlimited-intro__feature-icon responsive-feature-icon">
-                <img src="/Assets/Startseite/Icons/Icon_unlimited fit.svg" alt="Unlimited Fit" />
+                <img src="/Assets/startseite/icons/Icon_unlimited fit.svg" alt="Unlimited Fit" />
               </div>
               <h3 className="unlimited-intro__feature-subtitle responsive-feature-subtitle">UNLIMITED</h3>
               <h2 className="unlimited-intro__feature-title responsive-feature-title">FIT</h2>
@@ -342,7 +342,7 @@ export default function ProductLinks() {
             
             <div className="unlimited-intro__feature-card responsive-feature-card">
               <div className="unlimited-intro__feature-icon responsive-feature-icon">
-                <img src="/Assets/Startseite/Icons/Icon_unlimited style.svg" alt="Unlimited Style" />
+                <img src="/Assets/startseite/icons/Icon_unlimited style.svg" alt="Unlimited Style" />
               </div>
               <h3 className="unlimited-intro__feature-subtitle responsive-feature-subtitle">UNLIMITED</h3>
               <h2 className="unlimited-intro__feature-title responsive-feature-title">STYLE</h2>
@@ -420,7 +420,7 @@ export default function ProductLinks() {
   {/* Desktop Logo Section */}
   <div className="desktop-logo-section">
     <img
-      src="/Assets/Startseite/designlinien.jpg"
+      src="/Assets/startseite/designlinien.jpg"
       alt="Design Linien Desktop"
       className="design-logo-image"
     />
@@ -567,7 +567,7 @@ export default function ProductLinks() {
 {/* Logo section */}
 <div className="logo-section responsive-logo">
   <img
-    src="/Assets/Startseite/aktion.jpg"
+    src="/Assets/startseite/aktion.jpg"
     alt="Aktion Logo"
     className="logo-section__img"
   />
@@ -605,7 +605,7 @@ export default function ProductLinks() {
       onClick={prevImage}
     >
       <img
-        src="/Assets/Startseite/left-arrow.svg"
+        src="/Assets/startseite/left-arrow.svg"
         alt="Previous"
         className="gallery-section__arrow"
       />
@@ -637,7 +637,7 @@ export default function ProductLinks() {
       onClick={nextImage}
     >
       <img
-        src="/Assets/Startseite/right-arrow.svg"
+        src="/Assets/startseite/right-arrow.svg"
         alt="Next"
         className="gallery-section__arrow"
       />
@@ -689,7 +689,7 @@ export default function ProductLinks() {
       <div className="support-contact__card responsive-support-card">
         <div className="support-contact__card-header responsive-card-header">
           <img 
-            src="/Assets/Startseite/Icons/Mail.svg" 
+            src="/Assets/startseite/icons/Mail.svg" 
             alt="Email" 
             className="support-contact__icon responsive-support-icon"
           />
@@ -703,7 +703,7 @@ export default function ProductLinks() {
       <div className="support-contact__card responsive-support-card">
         <div className="support-contact__card-header responsive-card-header">
           <img 
-            src="/Assets/Startseite/Icons/Phone.svg" 
+            src="/Assets/startseite/icons/Phone.svg" 
             alt="Phone" 
             className="support-contact__icon responsive-support-icon"
           />
@@ -718,7 +718,7 @@ export default function ProductLinks() {
       <div className="support-contact__card responsive-support-card">
         <div className="support-contact__card-header responsive-card-header">
           <img 
-            src="/Assets/Startseite/Icons/montage.svg" 
+            src="/assets/startseite/icons/montage.svg" 
             alt="Dealer Search" 
             className="support-contact__icon responsive-support-icon"
           />

@@ -60,7 +60,7 @@ const NavigationHeader = () => {
           {/* Logo */}
           <div className="logo">
             <img 
-              src="/Assets/Startseite/BBS-Logo-2025.svg" 
+              src="/assets/startseite/BBS-Logo-2025.svg" 
               alt="BBS Wheels Logo 2025" 
               className="logo-img" 
             />
@@ -141,7 +141,7 @@ const NavigationHeader = () => {
          {/* Car selector */}
 <div className="mobile-car-selector">
   <img 
-    src="/Assets/Startseite/car-image.svg" 
+    src="/assets/startseite/car-image.svg" 
     alt="Car Icon" 
     className="car-icon"
   />
