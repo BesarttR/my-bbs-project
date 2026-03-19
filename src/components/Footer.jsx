@@ -46,7 +46,7 @@ const Footer = () => {
               <a href="#" className="footer__alle-rader-link">
                 Alle Räder
                 <img 
-                  src="/my-bbs-project/assets/
+                  src="/assets/
 Startseite/arrow-right-red.svg" 
                   alt="Arrow Right" 
                   className="footer__arrow-svg" 
@@ -70,7 +70,7 @@ Startseite/arrow-right-red.svg"
             <div style={{ marginTop: "30px" }}>
               <h3 className="footer__column-title">KONTAKT</h3>
               <div className="footer__contact-item">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/map.svg" alt="Location" className="footer__contact-icon" />
                 <div>
                   <div>KW automotive GmbH</div>
@@ -79,12 +79,12 @@ Startseite/map.svg" alt="Location" className="footer__contact-icon" />
                 </div>
               </div>
               <div className="footer__contact-item">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/phone.svg" alt="Phone" className="footer__contact-icon" />
                 <div>+49 (0) 7836 52-0</div>
               </div>
               <div className="footer__contact-item">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/mail.svg" alt="Email" className="footer__contact-icon" />
                 <div>sales.bbs@kwautomotive.de</div>
               </div>
@@ -111,23 +111,23 @@ Startseite/mail.svg" alt="Email" className="footer__contact-icon" />
               <h4 className="footer__social-title">Social Media</h4>
               <div className="footer__social-icons">
                 <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/my-bbs-project/assets/
+                  <img src="/assets/
 Startseite/facebook.svg" alt="Facebook" className="footer__social-icon" />
                 </a>
                 <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/my-bbs-project/assets/
+                  <img src="/assets/
 Startseite/instagram.svg" alt="Instagram" className="footer__social-icon" />
                 </a>
                 <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/my-bbs-project/assets/
+                  <img src="/assets/
 Startseite/youtube.svg" alt="YouTube" className="footer__social-icon" />
                 </a>
                 <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/my-bbs-project/assets/
+                  <img src="/assets/
 Startseite/tiktok.png" alt="TikTok" className="footer__social-icon" />
                 </a>
                 <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/my-bbs-project/assets/
+                  <img src="/assets/
 Startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
                 </a>
               </div>
@@ -158,7 +158,7 @@ Startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
               </div>
               <div className="footer__login">
                 <button className="footer__login-button">
-                  <img src="/my-bbs-project/assets/
+                  <img src="/assets/
 Startseite/login.svg" alt="Login" className="footer__login-icon" />
                   Händler Login
                 </button>
@@ -265,7 +265,7 @@ Startseite/login.svg" alt="Login" className="footer__login-icon" />
           {/* Mobile Buttons Section */}
           <div className="footer__mobile-buttons">
             <button className="footer__login-button">
-              <img src="/my-bbs-project/assets/
+              <img src="/assets/
 Startseite/login.svg" alt="Login" className="footer__login-icon" />
               Händler Login
             </button>
@@ -277,23 +277,23 @@ Startseite/login.svg" alt="Login" className="footer__login-icon" />
             <h4 className="footer__mobile-social-title">Social Media</h4>
             <div className="footer__mobile-social-icons">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/facebook.svg" alt="Facebook" className="footer__social-icon" />
               </a>
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/instagram.svg" alt="Instagram" className="footer__social-icon" />
               </a>
               <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/youtube.svg" alt="YouTube" className="footer__social-icon" />
               </a>
               <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/tiktok.png" alt="TikTok" className="footer__social-icon" />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                <img src="/my-bbs-project/assets/
+                <img src="/assets/
 Startseite/linkedin.png" alt="LinkedIn" className="footer__social-icon" />
               </a>
             </div>
