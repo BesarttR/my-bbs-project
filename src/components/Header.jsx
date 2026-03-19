@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import './Header.css';
-
+import { asset } from '../utils/paths';
 const NavigationHeader = () => {
   const headerRef = useRef(null);
   const [isSticky, setIsSticky] = useState(false);
@@ -60,7 +60,7 @@ const NavigationHeader = () => {
           {/* Logo */}
           <div className="logo">
             <img 
-              src="/Assets/Startseite/BBS-Logo-2025.svg" 
+              src={asset("assets/Startseite/BBS-Logo-2025.svg")} 
               alt="BBS Wheels Logo 2025" 
               className="logo-img" 
             />
@@ -141,7 +141,7 @@ const NavigationHeader = () => {
          {/* Car selector */}
 <div className="mobile-car-selector">
   <img 
-    src="/Assets/Startseite/car-image.svg" 
+    src={asset("assets/Startseite/car-image.svg")}
     alt="Car Icon" 
     className="car-icon"
   />

@@ -5,7 +5,6 @@ import ProductLinks from "./components/ProductLinks";
 import Footer from "./components/Footer";
 import "./index.css";
 import "./fonts.css";
-
 function App() {
   return (
     <div className="App" style={{ 

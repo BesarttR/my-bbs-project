@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import "./VideoBanner.css";
-
+import { asset } from '../utils/paths';
 export default function VideoBanner() {
   const videoRef = useRef(null);
   const [ended, setEnded] = useState(false);
@@ -61,7 +61,7 @@ export default function VideoBanner() {
     <div className="video-banner-container">
       <video
         ref={videoRef}
-        src="/Assets/BBS_Ad_CH-RII_15sec_Website_fixed.mp4"
+        src={asset("assets/BBS_Ad_CH-RII_15sec_Website.mp4.mp4")}
         autoPlay
         muted
         loop={false}

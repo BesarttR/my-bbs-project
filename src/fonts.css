@@ -1,7 +1,7 @@
 /* Regular (400) */
 @font-face {
     font-family: "TT Norms Pro";
-    src: url("/Assets/Fonts/TypeType - TT Norms Pro Regular.ttf") format("truetype");
+    src: url("/assets/Fonts/TypeType - TT Norms Pro Regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
   }
@@ -9,7 +9,7 @@
   /* DemiBold (600) */
   @font-face {
     font-family: "TT Norms Pro";
-    src: url("/Assets/Fonts/TypeType - TT Norms Pro DemiBold.ttf") format("truetype");
+    src: url("/assets/Fonts/TypeType - TT Norms Pro DemiBold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
   }
@@ -17,7 +17,7 @@
   /* Bold (700) */
   @font-face {
     font-family: "TT Norms Pro";
-    src: url("/Assets/Fonts/TypeType - TT Norms Pro Bold.ttf") format("truetype");
+    src: url("/assets/Fonts/TypeType - TT Norms Pro Bold.ttf") format("truetype");
     font-weight: 700;
     font-style: normal;
   }

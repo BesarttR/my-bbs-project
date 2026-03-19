@@ -1,3 +1,1 @@
-export const getAssetPath = (path) => {
-  return import.meta.env.BASE_URL + path.replace(/^\//, '');
-};
+export const asset = (path) => `/my-bbs-project/${path.replace(/^\//, "")}`;
