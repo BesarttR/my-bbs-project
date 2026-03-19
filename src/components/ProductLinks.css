@@ -526,8 +526,7 @@ html, body {
 /* ===== DARK BACKGROUND STARTS HERE ===== */
 .product-links-new {
   background-color: #2a2a2a;
-  background-image: url(/assets/
-Startseite/unlimited_bg.png');
+  background-image: url(/assets/Startseite/unlimited_bg.png);
   background-size: cover;
   background-position: center;
   background-attachment: scroll;
@@ -2105,8 +2104,7 @@ Startseite/unlimited_bg.png');
 }
 .product-links-new {
   background-color: #2a2a2a;
-  background-image: url(/assets/
-Startseite/unlimited_bg.png');
+  background-image: url(/assets/Startseite/unlimited_bg.png');
   background-size: cover;
   background-position: center;
   background-attachment: scroll;
