@@ -526,7 +526,7 @@ html, body {
 /* ===== DARK BACKGROUND STARTS HERE ===== */
 .product-links-new {
   background-color: #2a2a2a;
-  background-image: url(/my-bbs-project/assets/
+  background-image: url(/assets/
 Startseite/unlimited_bg.png');
   background-size: cover;
   background-position: center;
@@ -2105,7 +2105,7 @@ Startseite/unlimited_bg.png');
 }
 .product-links-new {
   background-color: #2a2a2a;
-  background-image: url(/my-bbs-project/assets/
+  background-image: url(/assets/
 Startseite/unlimited_bg.png');
   background-size: cover;
   background-position: center;
