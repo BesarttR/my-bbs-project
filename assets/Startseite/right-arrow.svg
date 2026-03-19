@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="right-arrow" transform="translate(-1695.529 -6850)">
+    <g id="Rechteck_197" data-name="Rechteck 197" transform="translate(1695.529 6850)" fill="none" stroke="#333" stroke-width="2">
+      <rect width="32" height="32" rx="16" stroke="none"/>
+      <rect x="1" y="1" width="30" height="30" rx="15" fill="none"/>
+    </g>
+    <path id="Pfad_117" data-name="Pfad 117" d="M8.25,4.5l5.712,5.712L8.25,15.925" transform="translate(1701.644 6855.552)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
